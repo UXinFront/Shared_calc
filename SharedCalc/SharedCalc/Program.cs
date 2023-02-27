@@ -24,4 +24,3 @@ public class Program
     double Plus(double numOne, double numTwo) => numOne + numTwo;
     double Minus(double numOne, double numTwo) => numOne - numTwo;
 }
-}
