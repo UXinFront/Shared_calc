@@ -1,0 +1,9 @@
+Dokumentation er lavet så den "dårlige", lange eller grimme kode du har skrevet kan forstås af den
+næste developer der sidder med koden (eller dig selv i fremtiden).
+Typisk kan man bare skrive hurtige forklarende // kommentare, men hvis det er et størrere projekt
+og andre er med på det, er det godt at bruge XML /// tags og så videre.
+Udover det kan man også dokumentere i en seperat dokument for at gøre det nemmere at forstå "flowet" (flowchart)
+eller hvordan forskellige ting interagere og afhænger af hindanden.
+
+Kevin, Mathias og Zilas:
+?
